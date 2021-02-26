@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "kissfft-sys",
+  "fft4r"
+]
